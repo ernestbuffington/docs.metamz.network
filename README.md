@@ -1,10 +1,10 @@
-# HumHub Documentation
+# Meta MZ Documentation
 
 >⚠️ Under construction.
 
 This documentation is built using [Docusaurus 2](https://v2.docusaurus.io/).
 
-Check [docs.humhub.org](http://docs.humhub.org) for a live version!
+Check [docs.metamz.network](http://docs.metamz.network) for a live version!
 
 ### Installation
 
